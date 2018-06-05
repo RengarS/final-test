@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domain-test/domain-test.iml" filepath="$PROJECT_DIR$/domain-test/domain-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/final-test.iml" filepath="$PROJECT_DIR$/final-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-register/test-register.iml" filepath="$PROJECT_DIR$/test-register/test-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rpcservice/test-rpcservice.iml" filepath="$PROJECT_DIR$/test-rpcservice/test-rpcservice.iml" />
+    </modules>
+  </component>
+</project>
