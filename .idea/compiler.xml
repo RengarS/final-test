@@ -11,12 +11,5 @@
         <module name="test-rpcservice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="domain-test" target="1.5" />
-      <module name="final-test" target="1.5" />
-      <module name="test-register" target="1.5" />
-      <module name="test-rpcservice" target="1.5" />
-      <module name="test-web" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
